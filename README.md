@@ -8,31 +8,31 @@ ML/AI Engineer | M.Sc. in Data Science @ Politecnico di Torino | B.Sc. in Mathem
 <div align="center">
   <table width="100%" style="line-height: 2;">
     <tr>
-      <td align="right" valign="middle" width="30%"><b>Languages & Development</b></td>
+      <td align="right" valign="middle" style="white-space: nowrap;"><b>Languages & Development</b></td>
       <td align="left" valign="middle">
         &nbsp;&nbsp; Python &nbsp;|&nbsp; C &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Git &nbsp;|&nbsp; Streamlit &nbsp;|&nbsp; LaTeX
       </td>
     </tr>
     <tr>
-      <td align="right" valign="middle" width="30%"><b>Machine & Deep Learning</b></td>
+      <td align="right" valign="middle" style="white-space: nowrap;"><b>Machine & Deep Learning</b></td>
       <td align="left" valign="middle">
         &nbsp;&nbsp; PyTorch &nbsp;|&nbsp; Hugging Face &nbsp;|&nbsp; Scikit-Learn &nbsp;|&nbsp; OpenCV
       </td>
     </tr>
     <tr>
-      <td align="right" valign="middle" width="30%"><b>LLMs & Generative AI</b></td>
+      <td align="right" valign="middle" style="white-space: nowrap;"><b>LLMs & Generative AI</b></td>
       <td align="left" valign="middle">
         &nbsp;&nbsp; LangChain &nbsp;|&nbsp; LangGraph &nbsp;|&nbsp; LlamaIndex &nbsp;|&nbsp; Ollama
       </td>
     </tr>
     <tr>
-      <td align="right" valign="middle" width="30%"><b>Data Analytics & Visualization</b></td>
+      <td align="right" valign="middle" style="white-space: nowrap;"><b>Data Analytics & Visualization</b></td>
       <td align="left" valign="middle">
         &nbsp;&nbsp; Power BI &nbsp;|&nbsp; Excel &nbsp;|&nbsp; Pandas &nbsp;|&nbsp; NumPy &nbsp;|&nbsp; Matplotlib &nbsp;|&nbsp; Seaborn
       </td>
     </tr>
     <tr>
-      <td align="right" valign="middle" width="30%"><b>Data Management & Big Data</b></td>
+      <td align="right" valign="middle" style="white-space: nowrap;"><b>Data Management & Big Data</b></td>
       <td align="left" valign="middle">
         &nbsp;&nbsp; PySpark &nbsp;|&nbsp; Hadoop &nbsp;|&nbsp; SQL Server &nbsp;|&nbsp; MongoDB &nbsp;|&nbsp; ChromaDB
       </td>
