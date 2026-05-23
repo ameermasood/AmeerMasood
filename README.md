@@ -1,4 +1,4 @@
-<font size="6"><b>Amir Masoud Almasi</b></font> <br>
+# Amir Masoud Almasi
 M.Sc. in Data Science @ Politecnico di Torino | B.Sc. in Mathematics | Ex-Data Analyst @ MCI (1+ year)
 
 <hr>
