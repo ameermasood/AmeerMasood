@@ -1,5 +1,5 @@
 # Amir Masoud Almasi
-M.Sc. in Data Science @ Politecnico di Torino | B.Sc. in Mathematics | Ex-Data Analyst @ MCI (1+ year)
+ML/AI Engineer | M.Sc. in Data Science @ Politecnico di Torino | B.Sc. in Mathematics | Ex-Data Analyst @ MCI (1+ year)
 
 <hr>
 
