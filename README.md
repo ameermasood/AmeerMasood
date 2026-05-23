@@ -6,35 +6,35 @@ M.Sc. in Data Science @ Politecnico di Torino | B.Sc. in Mathematics | Ex-Data A
 ### Tech Stack
 
 <div align="center">
-  <table width="100%">
+  <table width="100%" style="line-height: 2;">
     <tr>
-      <td align="right" valign="middle" width="25%"><b>Languages & Development</b></td>
+      <td align="right" valign="middle" width="30%"><b>Languages & Development</b></td>
       <td align="left" valign="middle">
-        Python &nbsp;&nbsp; |&nbsp;&nbsp; C &nbsp;&nbsp; |&nbsp;&nbsp; SQL &nbsp;&nbsp; |&nbsp;&nbsp; Git &nbsp;&nbsp; |&nbsp;&nbsp; Streamlit &nbsp;&nbsp; |&nbsp;&nbsp; LaTeX
+        &nbsp;&nbsp; Python &nbsp;|&nbsp; C &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Git &nbsp;|&nbsp; Streamlit &nbsp;|&nbsp; LaTeX
       </td>
     </tr>
     <tr>
-      <td align="right" valign="middle" width="25%"><b>Machine Learning & Deep Learning</b></td>
+      <td align="right" valign="middle" width="30%"><b>Machine & Deep Learning</b></td>
       <td align="left" valign="middle">
-        PyTorch &nbsp;&nbsp; |&nbsp;&nbsp; Hugging Face &nbsp;&nbsp; |&nbsp;&nbsp; Scikit-Learn &nbsp;&nbsp; |&nbsp;&nbsp; OpenCV
+        &nbsp;&nbsp; PyTorch &nbsp;|&nbsp; Hugging Face &nbsp;|&nbsp; Scikit-Learn &nbsp;|&nbsp; OpenCV
       </td>
     </tr>
     <tr>
-      <td align="right" valign="middle" width="25%"><b>Generative AI</b></td>
+      <td align="right" valign="middle" width="30%"><b>LLMs & Generative AI</b></td>
       <td align="left" valign="middle">
-        LangChain &nbsp;&nbsp; |&nbsp;&nbsp; LangGraph &nbsp;&nbsp; |&nbsp;&nbsp; LlamaIndex &nbsp;&nbsp; |&nbsp;&nbsp; Ollama
+        &nbsp;&nbsp; LangChain &nbsp;|&nbsp; LangGraph &nbsp;|&nbsp; LlamaIndex &nbsp;|&nbsp; Ollama
       </td>
     </tr>
     <tr>
-      <td align="right" valign="middle" width="25%"><b>Data Analytics</b></td>
+      <td align="right" valign="middle" width="30%"><b>Data Analytics & Visualization</b></td>
       <td align="left" valign="middle">
-        Power BI &nbsp;&nbsp; |&nbsp;&nbsp; Excel &nbsp;&nbsp; |&nbsp;&nbsp; Pandas &nbsp;&nbsp; |&nbsp;&nbsp; NumPy &nbsp;&nbsp; |&nbsp;&nbsp; Matplotlib &nbsp;&nbsp; |&nbsp;&nbsp; Seaborn
+        &nbsp;&nbsp; Power BI &nbsp;|&nbsp; Excel &nbsp;|&nbsp; Pandas &nbsp;|&nbsp; NumPy &nbsp;|&nbsp; Matplotlib &nbsp;|&nbsp; Seaborn
       </td>
     </tr>
     <tr>
-      <td align="right" valign="middle" width="25%"><b>Data Infrastructure</b></td>
+      <td align="right" valign="middle" width="30%"><b>Data Management & Big Data</b></td>
       <td align="left" valign="middle">
-        PySpark &nbsp;&nbsp; |&nbsp;&nbsp; Hadoop &nbsp;&nbsp; |&nbsp;&nbsp; SQL Server &nbsp;&nbsp; |&nbsp;&nbsp; MongoDB &nbsp;&nbsp; |&nbsp;&nbsp; ChromaDB
+        &nbsp;&nbsp; PySpark &nbsp;|&nbsp; Hadoop &nbsp;|&nbsp; SQL Server &nbsp;|&nbsp; MongoDB &nbsp;|&nbsp; ChromaDB
       </td>
     </tr>
   </table>
