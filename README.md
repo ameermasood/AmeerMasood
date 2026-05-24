@@ -10,7 +10,7 @@ ML/AI Engineer | M.Sc. in Data Science @ Politecnico di Torino | B.Sc. in Mathem
     <tr>
       <td align="right" valign="middle" style="white-space: nowrap;"><b>Languages & Development</b></td>
       <td align="left" valign="middle">
-        &nbsp;&nbsp; Python &nbsp;|&nbsp; C &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Git &nbsp;|&nbsp; Streamlit &nbsp;|&nbsp; LaTeX
+        &nbsp;&nbsp; Python &nbsp;|&nbsp; C &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Git &nbsp;|&nbsp; Streamlit &nbsp;
       </td>
     </tr>
     <tr>
